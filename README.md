@@ -12,17 +12,4 @@
 AnkaKaralash
 ```
 
-### 3. Структура проекта:
-```
-first_project/
-├── main/
-│   ├── views.py
-│   ├── urls.py
-│   └── ...
-├── config/
-│   ├── settings.py
-│   ├── urls.py
-│   └── ...
-├── manage.py
-├── requirements.txt
-└── README.md
+
